@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+* {
+  font-family: poppins, sans-serif;
+}
+.login {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+.login-form {
+  background-color: #ddd;
+  width: 500px;
+  padding: 30px 0;
+  border-radius: 10px;
+}
+.width {
+  width: 300px;
+  border: none;
+  border-radius: 5px;
+}
